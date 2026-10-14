@@ -10,3 +10,7 @@
 - Learn Python Programming
 - Learn Git and Github
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligence
+- Game Development
